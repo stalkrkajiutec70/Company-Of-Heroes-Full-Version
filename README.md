@@ -239,4 +239,4 @@ This repository serves as the official landing page for Company of Heroes. The s
 **Get the most recent version of Company of Heroes today!**
 
 ---
-**Last updated:** 2026-10-13 05:15:10 UTC
+**Last updated:** 2026-10-13 13:27:36 UTC
